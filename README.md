@@ -1,6 +1,6 @@
 
 
-### #1 [dart analyzer ast hierarchy](./#01_2023-04-03_astnode_with_examples.pdf)
+### #1 [dart analyzer ast hierarchy](https://github.com/modulovalue/graphs/blob/main/%2301_2023-04-03_astnode_with_examples.pdf)
 I used this to get an overview of the dart analyzer class hierarchy. 
 
 Notice how some nodes contain examples for what syntactical construct they correspond to.
