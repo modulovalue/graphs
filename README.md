@@ -7,6 +7,8 @@ Notice how some nodes contain examples for what syntactical construct they corre
 
 One cool part here is that it combines nodes with common parents and children into one node (in orange).
 
+TODO add entry here for others
+
 ## Notes:
 
 To view PDFs use Finder.
